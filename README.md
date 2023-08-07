@@ -33,6 +33,7 @@ Sample text file "normalizedLabGrades.txt"
 
 
 
+
 202263730 15 15.7
 
 202263130 18 18.7
@@ -50,5 +51,6 @@ Sample text file "normalizedLabGrades.txt"
 202265080 10 10.7
 
 202228900 17 17.7
+
 
 202228640 16 16.7
