@@ -50,4 +50,5 @@ Sample text file "normalizedLabGrades.txt"
 202265080 10 10.7
 
 202228900 17 17.7
+
 202228640 16 16.7
