@@ -3,7 +3,7 @@
 Given the text file "labGrades.txt" that has lab grades of students in ICS104.
 Each line has ID followed by numeric grade.
 
-Sample text file "labGrades.txt"
+Sample text file "labGrades.txt"\n
 202263730 15
 202263130 18
 202257670 13
