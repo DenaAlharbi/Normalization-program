@@ -21,6 +21,7 @@ Write a program that normalizes the grades such that the average is 16. Store in
 Sample text file "normalizedLabGrades.txt"
 
 
+
 202263730 15 15.7
 202263130 18 18.7
 202257670 13 13.7
